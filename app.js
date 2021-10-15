@@ -1,2 +1,4 @@
 var port = 3000;
-console.log('teste de conexao...')
+var connection = "localhost";
+const DATA = new Array();
+console.log('teste de conexao...');
