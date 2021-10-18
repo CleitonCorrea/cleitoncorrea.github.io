@@ -3,4 +3,5 @@ var connection = "localhost";
 const DATA = new Array();
 const CONNECTIONSTRING = new Array();
 const UPSTREAM = new Array();
+const ARP = new Array();
 console.log('teste de conexao...' + port);
