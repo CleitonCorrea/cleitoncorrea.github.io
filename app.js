@@ -6,3 +6,4 @@ const UPSTREAM = new Array();
 const ARP = new Array();
 const UPSTREAM_REMOTE = new Array();
 console.log('teste de conexao...' + port);
+console.log('teste arp...' + ARP);
